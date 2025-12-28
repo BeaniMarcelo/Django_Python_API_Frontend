@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="959" height="997" alt="image" src="https://github.com/user-attachments/assets/290db58a-40bc-4fd9-a45d-55235814bd6b" />
 
 
 # Django Python API - Frontend
