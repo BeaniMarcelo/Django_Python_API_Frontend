@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 # Django Python API - Frontend
 
 Vue.js frontend application for the Django Python API project.
